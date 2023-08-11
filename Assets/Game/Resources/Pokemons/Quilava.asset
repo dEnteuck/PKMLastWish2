@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5aa4a7f37a22714c9924381e9ade610, type: 3}
+  m_Name: Quilava
+  m_EditorClassIdentifier: 
+  name: Quilava
+  description: 
+  frontSprite: {fileID: 21300000, guid: ad61c80d47fb33045b605b38c2561e17, type: 3}
+  backSprite: {fileID: 21300000, guid: 997cbb4399ce888499c0121c2c2d8c36, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 58
+  attack: 64
+  defense: 58
+  spAttack: 80
+  spDefense: 65
+  speed: 80
+  catchRate: 45
+  expYield: 142
+  growthRate: 1
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 433c7f0f1ba367144becc81d8d84eab6, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1e253e69e3c46ac46a0c6560ca53ee82, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 20e909c6b7042af43ad43490708d757f, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 22791a831ab5c3d48978197f8b9388af, type: 2}
+    level: 18
+  - moveBase: {fileID: 11400000, guid: 8487172c0a93b8c42ae5a077f12fa099, type: 2}
+    level: 34
+  - moveBase: {fileID: 11400000, guid: 12714f5eb62f47c49bce188216809f65, type: 2}
+    level: 43
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: c029c8e30d97fab4aa5c8c99a750c653, type: 2}
+    requiredLevel: 36
+    requiredItem: {fileID: 0}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5aa4a7f37a22714c9924381e9ade610, type: 3}
+  m_Name: Sceptile
+  m_EditorClassIdentifier: 
+  name: Sceptile
+  description: 
+  frontSprite: {fileID: 21300000, guid: 93058b5bb7aab9f4da107cafface12a8, type: 3}
+  backSprite: {fileID: 21300000, guid: 5727ce9654295184b88bb24914b05dff, type: 3}
+  type1: 5
+  type2: 0
+  maxHp: 70
+  attack: 85
+  defense: 65
+  spAttack: 105
+  spDefense: 85
+  speed: 120
+  catchRate: 45
+  expYield: 239
+  growthRate: 1
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1a28b9ce3d9b0ab4da457daf597c8dc1, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 21e3550c97703b748ab4a139722c9174, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6d6f6f33d9a6f8b4e93c724fd2a57c38, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: ee0906ea4627d954ca1061b7f86fd619, type: 2}
+    level: 18
+  - moveBase: {fileID: 11400000, guid: bc55930cbbd106c48b179d46dd5ebd71, type: 2}
+    level: 34
+  - moveBase: {fileID: 11400000, guid: 81bd888c736379141a808926fe9b207f, type: 2}
+    level: 43
+  learnableByItems: []
+  evolutions: []

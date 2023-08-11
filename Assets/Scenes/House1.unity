@@ -3501,8 +3501,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pokemonToGive:
-    _base: {fileID: 11400000, guid: 74048fb159f540645a522b709b32a4a4, type: 2}
-    level: 5
+    _base: {fileID: 11400000, guid: 2871a63f82e242144862f4aad8304c7a, type: 2}
+    level: 16
   dialog:
     lines:
     - It's not safe to go out there without a pokemon

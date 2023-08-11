@@ -15,15 +15,15 @@ MonoBehaviour:
   name: Ember
   description: 
   type: 2
-  power: 45
+  power: 40
   accuracy: 100
   alwaysHits: 0
-  pp: 20
+  pp: 25
   priority: 0
   category: 1
   effects:
     boosts: []
-    status: 0
+    status: 2
     volatileStatus: 0
   secondaries:
   - boosts: []

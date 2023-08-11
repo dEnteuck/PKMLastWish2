@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5aa4a7f37a22714c9924381e9ade610, type: 3}
+  m_Name: Cyndaquil
+  m_EditorClassIdentifier: 
+  name: Cyndaquil
+  description: 
+  frontSprite: {fileID: 21300000, guid: 7282b53981510bd41b1fbe9f4563d369, type: 3}
+  backSprite: {fileID: 21300000, guid: 0f14bc7a75dff3d48aff211eb752c2ca, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 39
+  attack: 52
+  defense: 43
+  spAttack: 60
+  spDefense: 50
+  speed: 65
+  catchRate: 45
+  expYield: 62
+  growthRate: 1
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 433c7f0f1ba367144becc81d8d84eab6, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1e253e69e3c46ac46a0c6560ca53ee82, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 20e909c6b7042af43ad43490708d757f, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 22791a831ab5c3d48978197f8b9388af, type: 2}
+    level: 18
+  - moveBase: {fileID: 11400000, guid: 8487172c0a93b8c42ae5a077f12fa099, type: 2}
+    level: 34
+  - moveBase: {fileID: 11400000, guid: 12714f5eb62f47c49bce188216809f65, type: 2}
+    level: 43
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 8b2ec26983c862643a2a55b5c3dddc8b, type: 2}
+    requiredLevel: 17
+    requiredItem: {fileID: 0}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5aa4a7f37a22714c9924381e9ade610, type: 3}
+  m_Name: Staraptor
+  m_EditorClassIdentifier: 
+  name: Staraptor
+  description: 
+  frontSprite: {fileID: 21300000, guid: 2ea9e3d804b00f44db5520ba0fba7319, type: 3}
+  backSprite: {fileID: 21300000, guid: 89d51a7e32829694f863a15c2b07b56b, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 85
+  attack: 120
+  defense: 70
+  spAttack: 50
+  spDefense: 60
+  speed: 100
+  catchRate: 45
+  expYield: 243
+  growthRate: 1
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 44552df90c8e1634eabe15dd539d45eb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1e253e69e3c46ac46a0c6560ca53ee82, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 433c7f0f1ba367144becc81d8d84eab6, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: aefbec8eb79338247b24a361cbc19b3d, type: 2}
+    level: 9
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: d4e2dc94654f4f04db225f8f0f95a015, type: 2}
+    requiredLevel: 34
+    requiredItem: {fileID: 0}

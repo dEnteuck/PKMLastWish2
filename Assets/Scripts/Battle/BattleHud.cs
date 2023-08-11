@@ -65,7 +65,7 @@ public class BattleHud : MonoBehaviour
 
     public void SetLevel()
     {
-        levelText.text = "Lvl " + _pokemon.Level;
+        levelText.text = "" + _pokemon.Level;
     }
 
     public void SetExp()
