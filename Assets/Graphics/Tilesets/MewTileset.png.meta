@@ -1,0 +1,3412 @@
+fileFormatVersion: 2
+guid: cbe9f3f4a7ca99e429ac7626a46449da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MewTileset_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4524
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca92e89fb90d094bacca8c3b7fc2fb6
+      internalID: 1009762865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4522
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0652d065e92de59449177587dc343543
+      internalID: -1219315321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4484
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc9a00575698ba47b6c200081cb6438
+      internalID: -1656377254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4384
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d7d4cc1410394fa92a9cbf6d95312
+      internalID: 561711811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4384
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87520097a3d74e54db19ec15cd4b4562
+      internalID: -1311877881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4384
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7e7c80f6bc9a4ea5f607eed99180b
+      internalID: 1393780758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4384
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d418df9e4c8ee4cb834399c149c731
+      internalID: 1927497228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4289
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21accdeedb9ae740b7e66cf291658d2
+      internalID: 1346690875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b0e41ebd0ee949810b51616a970ff
+      internalID: 766754904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4288
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f350a414ce92cbf418c52e0408f338a1
+      internalID: -157871062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a25965bb02bc7c43a39339c349d99b2
+      internalID: -1008697430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4288
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67facf57501da94fb36fd9a064b808c
+      internalID: -454087126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4288
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e90d3ee8b12a4d8d9c5a5111fb123
+      internalID: -1593453748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4298
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c9e133af75e04fbe3f68d9f3b3447
+      internalID: -1696275558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4298
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7514fb408889a4e9062f783f504eda
+      internalID: 594541406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4230
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bc68f6650481446b859b4fb71bd116
+      internalID: 29464861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4224
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee6aa99b34ed8f42b7a80b3e6209928
+      internalID: -524712760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4224
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b70dd2ce03bc4fb717ce159967759
+      internalID: 572227136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930dacacfdedbd43b238370b6baa785
+      internalID: 1180028193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ec3aab6313464d98035ba31d9485d
+      internalID: 1086245330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4224
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf7149b03826004fa0e5db8502687f0
+      internalID: 1180860296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4224
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdb13ceb57d3fc44a22b71e8c834bf0
+      internalID: 1182995138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474853dc3449e174dbbd922756f865d6
+      internalID: -345699861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4512
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46c2e5fa7ab1e64da449c96956ef758
+      internalID: 1478648245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4532
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6dc8ddee8214144adeda9a5ce492e9
+      internalID: -1267667367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4512
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8026e54175d25489993649576582c0
+      internalID: 462864487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4532
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e170e4b5bef64e89c83a2e5d2f456
+      internalID: -2096256087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4532
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96281a4c06f372469d67e9d07cd46b6
+      internalID: 1723716724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4532
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f95f66fa96ba140babc92130ecdbed
+      internalID: -1819179203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4609
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e021d7030050b1489f460057590393d
+      internalID: 194019908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4628
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf4f6b5ac7818143a81d99ab740ee22
+      internalID: -1726450587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4609
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f468e2bb409c71543a0f123f0807cdc1
+      internalID: 1845536280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4146
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247d715149d3774bb36f4ed3ffb4ae7
+      internalID: 1307293184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792a5b999ffcae64790b99924cbf55d3
+      internalID: 1832282461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3936
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b138856484735747bc971f245b2ec62
+      internalID: 239574617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3904
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4c67562336c748957dddd0aa9d0ca
+      internalID: -1051917887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3876
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e1a481f07f7d44b53ebaf634c5aa3
+      internalID: -389467352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3876
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd9d0e89472d50439e0b01dc2e5824a
+      internalID: -264412973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3880
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf637048aed0744b718de1945a2a49
+      internalID: -322061003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3872
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce3da2ad04dbf246afadf633f36b785
+      internalID: -993324963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3872
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71110396a8eee264b964dce5164dc18d
+      internalID: 1357449567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3890
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37609e0d7075172429332fa2525d1fde
+      internalID: 681040063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4544
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d58c2ad6c2a541b3d71ce9573c161
+      internalID: -20680426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3762
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b313ef0cf6d944b9c9fb638c2aedac
+      internalID: 1851717741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3713
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d339bd9eb8b6b5f44870c7ffed460e33
+      internalID: 1637964872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3713
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef002c9c9b7cfd94ab58a984bfcca538
+      internalID: -536491602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3732
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f15fceda13704d99397be21e8991e
+      internalID: 814168999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3636
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3204de0c274ad44a11940d4b2bf775
+      internalID: -306476271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3636
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935670a0dcb663e46905d759c0578880
+      internalID: 1270948234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3636
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c6c156937efc24abd052801562b94e
+      internalID: 1611647956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3648
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3cf5c7ab5fc424ba774b764d84baf7
+      internalID: 1868720235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3732
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fadc25234ba55a46ba01f6719b30ed2
+      internalID: -655791242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3732
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e95d11f291da4bbfcb155e3ce82c9
+      internalID: -1066586903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3668
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306e50e67190844e86c9286008639fc
+      internalID: -727976000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3360
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b918561cfef9f4699e76e2ad58059c
+      internalID: -1364074740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3360
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9b9d8cf1355f48ad2d0f7474aea5b
+      internalID: 1980117287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3174
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c0fec78290834dbafcacaaf7d7e82
+      internalID: 297581928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3174
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8245909303ae45be14443b146b3d9
+      internalID: 1254413416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3174
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de383096b9f9c459809948fb39efda
+      internalID: 148204751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3174
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5617f23b697805459e7a1b469f62985
+      internalID: 161006501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3138
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fdccd6ca2a7954cbd5e5c8a3327f1d
+      internalID: 1479036844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3122
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69a5d5478f1f646bf8a4cee5cf5501
+      internalID: 783905034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2976
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac1f32372911d4d8ae57aeb9c3d700
+      internalID: 703889347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2912
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d25af6c6b2cd54489efb0e1fbeefb5
+      internalID: -930292930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2930
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439e6a7800021843abf60c51a397365
+      internalID: 704824063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2784
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27bed65f6fa2cf4398c1a09d441b0c3
+      internalID: -742427085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2784
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30293778579b524397f518e6937da1d
+      internalID: -1105404309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2754
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26064f9ff591bc4da685a2d7b8cb3fd
+      internalID: -111324992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2580
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -32}
+        - {x: -48, y: -32}
+        - {x: -48, y: -20}
+        - {x: -64, y: -20}
+        - {x: -64, y: 32}
+        - {x: 64, y: 32}
+        - {x: 64, y: -20}
+        - {x: 48, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4184875297575f240934a05578fc844a
+      internalID: -186673486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2572
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd4fe683dcf0e4a8e4d8ae53b779ae
+      internalID: 2129888483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2578
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810295f803c0ca488a2d570631e6a72
+      internalID: 1235604739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2432
+        width: 32
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a966d6748c5d64dadbedeaad255a35
+      internalID: 699656442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2432
+        width: 32
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adada4eb23511c49af26d8f30c11e65
+      internalID: -86687641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2528
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820cd249f988504c9b338df3953be36
+      internalID: -980729091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2528
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51087aee121d6e4992f4059b8066ab4
+      internalID: -1539236209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2436
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118ffd7deff05e4282256d444c39dbd
+      internalID: -2141594830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2208
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e75dd5c6a41774ea4f40b14106d639
+      internalID: 578056390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2208
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8669e3cca86904fba17865933bc5f9
+      internalID: 1755738056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2208
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d068d441e40e794bb6f11ab3d22165c
+      internalID: 993866939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2208
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72f6d0a31d9994ba6b109e21e3792f
+      internalID: -752735970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2272
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb4e72cf499de04e8ed26bd80f3ace1
+      internalID: 23743367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2272
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae8ab3e8ef2e034fbc0efa8e1136212
+      internalID: -2013142841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2272
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ced3c2d23c59949be0b6381dddf134
+      internalID: 1098265589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2272
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98e1a5d7f9997f459b8c5e5756079f7
+      internalID: -1045978317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2272
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8f74b43f123964face7fb33c26f2dc
+      internalID: 1262293389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2272
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b7ae32a15db93488eec1bc46c5b0ee
+      internalID: 1255127989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc8e9a2ffc7bd42b4d00f1c46794db
+      internalID: -1874073994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1376
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d1ef77c82dab947b599bb32b1074fa
+      internalID: -319599330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1376
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbb8694d69f7b847a18a3ca1a5c0e02
+      internalID: -470727294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1376
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7319d464a3ba97443a100dceb96a14ef
+      internalID: 637616285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24232f96870dde4dac9f06712e55ea0
+      internalID: 543111172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0608aa497e9f7e144981e96ed960ff6b
+      internalID: 1252527902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1344
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a11e27898dd8449d38331cf2b9236
+      internalID: -1649632702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1344
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66df453b9ec1de4c9e02eb4ab472f12
+      internalID: 243807940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eb6571c9e87dd4f875197979a97661
+      internalID: 738340096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16321f02d3b8a74ea69f85c3dcd32fb
+      internalID: -1922317730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843929d8b0fb60a40b158b8e3dd40331
+      internalID: 387974488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d912feaf18c98c43a1f9b882784035a
+      internalID: 57935818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc10444f39397e346a3d3a08e0e6711c
+      internalID: 1893397132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a99bf870635053449f31ee143fb9add
+      internalID: -338354822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91cc4b43bf3fb449807dbac4cae54fc
+      internalID: 1423456592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac9cdafae80cb47a56103da5fede79
+      internalID: 539182777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3136
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35aa8ef03e8fca4a9fe95c583125389
+      internalID: 163346683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72da1ba684f5cd142b1e28eb07a1ba1f
+      internalID: -723556975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0391c32002f22b446819fa02d2618c2c
+      internalID: -1847359565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ea893a1cd1e84592f2d8fe2ae83a0
+      internalID: -143093331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe614e431a2944d84c971f0c55612d
+      internalID: 1985511575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c47474c2c8f6bb4b8a2514d797db3e4
+      internalID: -1266442689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24580c2fee65874fbc8c160c0cc2a28
+      internalID: -343061889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4389eea53d0542b5875924759993f
+      internalID: -280771674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2fa56d7e271ac46909c3577bc92fa5
+      internalID: 1758131446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c920f3f1c99213c4b9679f7467d1026e
+      internalID: -1058241831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e136281dfb904a8d458f33c4d0b66
+      internalID: -2086818460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3456
+        width: 32
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609010586c861f43b3fbe57851ccf9e
+      internalID: -1822443128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3456
+        width: 32
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da7fabc52e956b44bca0f26d6afa060
+      internalID: 1450172727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3520
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4d633d021dae4f99ee39b932138b3
+      internalID: -1689871167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3456
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a17cd27692d46a4885c9110c9d6f61f
+      internalID: -1446085061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3456
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53762e2f2458ae14f8f879d172982b33
+      internalID: -1239984417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3520
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182701d964858754ab1f0ddb53d1650c
+      internalID: 1408469956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad084c725c78140bb89186fe526aff
+      internalID: 441551894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937bce10fe6215843b67d7bb80e9e991
+      internalID: -1560059531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7922cee6137b027468ec6bdceb5f7b03
+      internalID: -1469247366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c78fca1ab96804aac76aeaa782fc47
+      internalID: 1219909621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bbd71551b404740834d19e5321220e
+      internalID: -2047793981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d32b0d25a0bb444ba65f77efd6b94ac
+      internalID: 1286958005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_125
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3008
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37308a4a0ef8572478b38679e1228120
+      internalID: 1280404930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3072
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9be63034437c3498344573c6b94c15
+      internalID: -839954335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_127
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3072
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e31765dd4b10148b0e1fdc4bc4709b
+      internalID: 347565878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2336
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0344697c3f2c6c428f4f63f8eb1edc4
+      internalID: -1840210219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_129
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2208
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9cf37881a7ba4eb1dc37b401f0ffc
+      internalID: 532017231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2208
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec09aca80bde26a42befc2833fc9923d
+      internalID: 1360053887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_131
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2112
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb62db6ac83ea2d40afbdfac3012cee8
+      internalID: 1674609049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4616
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7949ac1c0974d640b59c68710c40d7e
+      internalID: -1369548564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_133
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2304
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c4a23c358d5147a509da5720b815b
+      internalID: -1329629256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_134
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2348
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f3b3a48de1b1644a27098cc549da2d
+      internalID: 191493089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5300b549a42514d88cd8de0c4ca976
+      internalID: 1002217695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326eab5877b39b243802f0c360273a5c
+      internalID: 730424273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f195260c0bf3f448a3db0e58cf08903
+      internalID: -1569716093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6c18e8225b1814a8fc8915e3bf4c02
+      internalID: -84579418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a62d337ddf8f154cbfd6ff3ac9abfbe
+      internalID: 259881411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2369
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38970bb03af6f2f4a92a2c6aa6998723
+      internalID: -1112819396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2369
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3016044128d1c594ead9d6e9ff6892cc
+      internalID: -166014980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06e663933f92d4b8ceb9f621a64821
+      internalID: -1669075887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f40c94f8603b6a4c817b912ad2b4f9a
+      internalID: 837699183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1056
+        width: 250
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -160}
+        - {x: -39, y: -160}
+        - {x: -39, y: -96}
+        - {x: -99, y: -96}
+        - {x: -99, y: -64}
+        - {x: -125, y: -64}
+        - {x: -125, y: -25}
+        - {x: -125, y: 123}
+        - {x: -115, y: 123}
+        - {x: -115, y: 79}
+        - {x: -95, y: 20}
+        - {x: -71, y: 19}
+        - {x: -71, y: 79}
+        - {x: -47, y: 79}
+        - {x: -35, y: 79}
+        - {x: -35, y: 64}
+        - {x: -3, y: 64}
+        - {x: -3, y: 101}
+        - {x: -3, y: 160}
+        - {x: 39, y: 160}
+        - {x: 40, y: 87}
+        - {x: 40, y: 64}
+        - {x: 97, y: 64}
+        - {x: 97, y: 20}
+        - {x: 121, y: 20}
+        - {x: 121, y: 31}
+        - {x: 125, y: 31}
+        - {x: 125, y: -91}
+        - {x: 63, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78379f978dc73c246a644b95dd0560ed
+      internalID: 1749659088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewTileset_145
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 415
+        width: 250
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: -59}
+        - {x: 93, y: -73}
+        - {x: 61, y: -73}
+        - {x: 61, y: -123}
+        - {x: 29, y: -123}
+        - {x: -35, y: -123}
+        - {x: -35, y: -73}
+        - {x: -125, y: -74}
+        - {x: -125, y: -59}
+        - {x: -99, y: -59}
+        - {x: -99, y: -27}
+        - {x: -125, y: -27}
+        - {x: -125, y: 37}
+        - {x: -66, y: 37}
+        - {x: -67, y: 101}
+        - {x: -3, y: 101}
+        - {x: -3, y: 124}
+        - {x: 29, y: 124}
+        - {x: 29, y: 101}
+        - {x: 93, y: 101}
+        - {x: 93, y: 37}
+        - {x: 125, y: 37}
+        - {x: 125, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e05f9da6f2a2941a6cea5f59f811b9
+      internalID: -1460639760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MewTileset_0: 1009762865
+      MewTileset_1: -1219315321
+      MewTileset_10: -1008697430
+      MewTileset_100: 1423456592
+      MewTileset_101: 539182777
+      MewTileset_102: 163346683
+      MewTileset_103: -723556975
+      MewTileset_104: -1847359565
+      MewTileset_105: -143093331
+      MewTileset_106: 1985511575
+      MewTileset_107: -1266442689
+      MewTileset_108: -343061889
+      MewTileset_109: -280771674
+      MewTileset_11: -454087126
+      MewTileset_110: 1758131446
+      MewTileset_111: -1058241831
+      MewTileset_112: -2086818460
+      MewTileset_113: -1822443128
+      MewTileset_114: 1450172727
+      MewTileset_115: -1689871167
+      MewTileset_116: -1446085061
+      MewTileset_117: -1239984417
+      MewTileset_118: 1408469956
+      MewTileset_119: 441551894
+      MewTileset_12: -1593453748
+      MewTileset_120: -1560059531
+      MewTileset_121: -1469247366
+      MewTileset_122: 1219909621
+      MewTileset_123: -2047793981
+      MewTileset_124: 1286958005
+      MewTileset_125: 1280404930
+      MewTileset_126: -839954335
+      MewTileset_127: 347565878
+      MewTileset_128: -1840210219
+      MewTileset_129: 532017231
+      MewTileset_13: -1696275558
+      MewTileset_130: 1360053887
+      MewTileset_131: 1674609049
+      MewTileset_132: -1369548564
+      MewTileset_133: -1329629256
+      MewTileset_134: 191493089
+      MewTileset_135: 1002217695
+      MewTileset_136: 730424273
+      MewTileset_137: -1569716093
+      MewTileset_138: -84579418
+      MewTileset_139: 259881411
+      MewTileset_14: 594541406
+      MewTileset_140: -1112819396
+      MewTileset_141: -166014980
+      MewTileset_142: -1669075887
+      MewTileset_143: 837699183
+      MewTileset_144: 1749659088
+      MewTileset_145: -1460639760
+      MewTileset_15: 29464861
+      MewTileset_16: -524712760
+      MewTileset_17: 572227136
+      MewTileset_18: 1180028193
+      MewTileset_19: 1086245330
+      MewTileset_2: -1656377254
+      MewTileset_20: 1180860296
+      MewTileset_21: 1182995138
+      MewTileset_22: -345699861
+      MewTileset_23: 1478648245
+      MewTileset_24: -1267667367
+      MewTileset_25: 462864487
+      MewTileset_26: -2096256087
+      MewTileset_27: 1723716724
+      MewTileset_28: -1819179203
+      MewTileset_29: 194019908
+      MewTileset_3: 561711811
+      MewTileset_30: -1726450587
+      MewTileset_31: 1845536280
+      MewTileset_32: 1307293184
+      MewTileset_33: 1832282461
+      MewTileset_34: 239574617
+      MewTileset_35: -1051917887
+      MewTileset_36: -389467352
+      MewTileset_37: -264412973
+      MewTileset_38: -322061003
+      MewTileset_39: -993324963
+      MewTileset_4: -1311877881
+      MewTileset_40: 1357449567
+      MewTileset_41: 681040063
+      MewTileset_42: -20680426
+      MewTileset_43: 1851717741
+      MewTileset_44: 1637964872
+      MewTileset_45: -536491602
+      MewTileset_46: 814168999
+      MewTileset_47: -306476271
+      MewTileset_48: 1270948234
+      MewTileset_49: 1611647956
+      MewTileset_5: 1393780758
+      MewTileset_50: 1868720235
+      MewTileset_51: -655791242
+      MewTileset_52: -1066586903
+      MewTileset_53: -727976000
+      MewTileset_54: -1364074740
+      MewTileset_55: 1980117287
+      MewTileset_56: 297581928
+      MewTileset_57: 1254413416
+      MewTileset_58: 148204751
+      MewTileset_59: 161006501
+      MewTileset_6: 1927497228
+      MewTileset_60: 1479036844
+      MewTileset_61: 783905034
+      MewTileset_62: 703889347
+      MewTileset_63: -930292930
+      MewTileset_64: 704824063
+      MewTileset_65: -742427085
+      MewTileset_66: -1105404309
+      MewTileset_67: -111324992
+      MewTileset_68: -186673486
+      MewTileset_69: 2129888483
+      MewTileset_7: 1346690875
+      MewTileset_70: 1235604739
+      MewTileset_71: 699656442
+      MewTileset_72: -86687641
+      MewTileset_73: -980729091
+      MewTileset_74: -1539236209
+      MewTileset_75: -2141594830
+      MewTileset_76: 578056390
+      MewTileset_77: 1755738056
+      MewTileset_78: 993866939
+      MewTileset_79: -752735970
+      MewTileset_8: 766754904
+      MewTileset_80: 23743367
+      MewTileset_81: -2013142841
+      MewTileset_82: 1098265589
+      MewTileset_83: -1045978317
+      MewTileset_84: 1262293389
+      MewTileset_85: 1255127989
+      MewTileset_86: -1874073994
+      MewTileset_87: -319599330
+      MewTileset_88: -470727294
+      MewTileset_89: 637616285
+      MewTileset_9: -157871062
+      MewTileset_90: 543111172
+      MewTileset_91: 1252527902
+      MewTileset_92: -1649632702
+      MewTileset_93: 243807940
+      MewTileset_94: 738340096
+      MewTileset_95: -1922317730
+      MewTileset_96: 387974488
+      MewTileset_97: 57935818
+      MewTileset_98: 1893397132
+      MewTileset_99: -338354822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
