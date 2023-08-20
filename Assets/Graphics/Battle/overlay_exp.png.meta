@@ -129,7 +129,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 252
-        height: 40
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,6 +191,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: overlay_exp_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 252
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c12945e93cd3047bf9499931acee48
+      internalID: 1939178856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -203,6 +224,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       overlay_exp_0: -1719429060
+      overlay_exp_1: 1939178856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

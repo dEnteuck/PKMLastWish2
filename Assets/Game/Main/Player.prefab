@@ -41,7 +41,7 @@ Transform:
   m_Children:
   - {fileID: 6105532442381884508}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &6105532441140382697
 SpriteRenderer:
@@ -122,13 +122,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pokemons:
-  - _base: {fileID: 11400000, guid: 74048fb159f540645a522b709b32a4a4, type: 2}
+  - _base: {fileID: 11400000, guid: a71b9a58967a28a468c5b6ab442e3fab, type: 2}
     level: 10
-  - _base: {fileID: 11400000, guid: b0f06cb1aa0571b43a653effe2b494b6, type: 2}
-    level: 6
-  - _base: {fileID: 11400000, guid: 74048fb159f540645a522b709b32a4a4, type: 2}
-    level: 2
-  - _base: {fileID: 11400000, guid: 74048fb159f540645a522b709b32a4a4, type: 2}
+  - _base: {fileID: 11400000, guid: 955b8c09a2fa52d42b4f4aa1ca4f07d4, type: 2}
+    level: 5
+  - _base: {fileID: 11400000, guid: a2feaf444a3641742a65ca720c2aef24, type: 2}
+    level: 5
+  - _base: {fileID: 11400000, guid: 8fe3e7834a4352944af7ad9611b48ef1, type: 2}
     level: 4
 --- !u!114 &6105532441140382692
 MonoBehaviour:
@@ -163,10 +163,10 @@ MonoBehaviour:
   - {fileID: -3748544, guid: 72e45e0c03df510458c731dd97ff1b98, type: 3}
   - {fileID: -1349216021, guid: 72e45e0c03df510458c731dd97ff1b98, type: 3}
   surfSprites:
-  - {fileID: -4465137455631916842, guid: ec976926dbc88f84080a1b1cfb3a3bfb, type: 3}
-  - {fileID: 548946438817077065, guid: ec976926dbc88f84080a1b1cfb3a3bfb, type: 3}
-  - {fileID: 4472088847651303106, guid: ec976926dbc88f84080a1b1cfb3a3bfb, type: 3}
-  - {fileID: 6356773947664160301, guid: ec976926dbc88f84080a1b1cfb3a3bfb, type: 3}
+  - {fileID: 41609707, guid: 8f20090a32f922a47aec2a0d3a3f1b93, type: 3}
+  - {fileID: 1178339415, guid: 8f20090a32f922a47aec2a0d3a3f1b93, type: 3}
+  - {fileID: 1890624015, guid: 8f20090a32f922a47aec2a0d3a3f1b93, type: 3}
+  - {fileID: 877284125, guid: 8f20090a32f922a47aec2a0d3a3f1b93, type: 3}
   defaultDirection: 1
 --- !u!114 &6105532441140382694
 MonoBehaviour:

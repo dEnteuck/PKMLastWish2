@@ -221,6 +221,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trainer 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3483163131377622420, guid: eb62a8f8dd6e2e043a29df0f7fa250b6,
+        type: 3}
+      propertyPath: pokemons.Array.data[0]._base
+      value: 
+      objectReference: {fileID: 11400000, guid: 955b8c09a2fa52d42b4f4aa1ca4f07d4,
+        type: 2}
+    - target: {fileID: 3483163131377622420, guid: eb62a8f8dd6e2e043a29df0f7fa250b6,
+        type: 3}
+      propertyPath: pokemons.Array.data[1]._base
+      value: 
+      objectReference: {fileID: 11400000, guid: 2871a63f82e242144862f4aad8304c7a,
+        type: 2}
     - target: {fileID: 3483163131377622422, guid: eb62a8f8dd6e2e043a29df0f7fa250b6,
         type: 3}
       propertyPath: walkUpSprites.Array.size
@@ -348,6 +360,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: e152945a41ccbf04eb12e2fbaa8bba7a,
         type: 3}
+    - target: {fileID: 3483163131377622423, guid: eb62a8f8dd6e2e043a29df0f7fa250b6,
+        type: 3}
+      propertyPath: trainerAppearsClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2f855f65bcd73584593828a6c68f837a, type: 3}
     - target: {fileID: 3483163131377622425, guid: eb62a8f8dd6e2e043a29df0f7fa250b6,
         type: 3}
       propertyPath: m_RootOrder
@@ -4722,7 +4739,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 2
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 10
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -4732,7 +4749,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 1
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -4780,11 +4797,10 @@ Tilemap:
   - m_RefCount: 325
     m_Data: {fileID: 5666300395095087125, guid: 9fd27cb378b0b424cb278e141d872dcf,
       type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: -4919714115433529286, guid: 2c8498c678dd516409f51b75cd3011e7,
-      type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 4293532685929897631, guid: 2c8498c678dd516409f51b75cd3011e7,
       type: 3}
   - m_RefCount: 19
     m_Data: {fileID: 2774383133817754734, guid: 2c8498c678dd516409f51b75cd3011e7,
@@ -4807,8 +4823,9 @@ Tilemap:
   - m_RefCount: 8
     m_Data: {fileID: 8611710624489393438, guid: 2c8498c678dd516409f51b75cd3011e7,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 4293532685929897631, guid: 2c8498c678dd516409f51b75cd3011e7,
+      type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 7767982875099746198, guid: 2c8498c678dd516409f51b75cd3011e7,
       type: 3}
@@ -6858,7 +6875,7 @@ GameObject:
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &802690002
 Transform:
   m_ObjectHideFlags: 0
@@ -9867,7 +9884,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2038359568}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.53, y: 10, z: 0}
+  m_LocalPosition: {x: 0, y: 10.99, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
